@@ -5,4 +5,4 @@ Facial recognition is a technique for recognizing or verifying a person’s iden
 
 
 ![image](https://user-images.githubusercontent.com/103565065/181820888-e36109c7-fbf8-494b-b83f-c135c5a284b9.png)
-Face Detection
+                                              Face Detection
